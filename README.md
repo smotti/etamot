@@ -1,6 +1,6 @@
 # Description
 
-Just a small pomodoro app with support for desktop notification. It also has some keybindings for the buttons (see the code ^^).
+Just a small pomodoro app with support for desktop notifications. It also has some keybindings for the buttons (see the code ^^).
 
 # Requirements
 
